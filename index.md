@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hhhccy0409/XinHaoYuXiTong.github/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hhhccy0409/XinHaoYuXiTong.github/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<table border="0">
+ <tr>
+   <td width="75%">
+     <h1>韩楚滢的个人主页</h1>
+     <p><b>姓名：韩楚滢</b></p >
+     <p><b>学校：浙大宁波理工学院</b></p >
+     <p><b>班级：电子信息工程191</b></p >
+     <p><b>信号与系统</b></p >
+     <p>< a href="https://github.com/Huang-0523/Huang-0523.github.io/blob/main/GUI%E5%AE%9E%E7%8E%B0%E7%A6%BB%E6%95%A3%E4%BF%A1%E5%8F%B7.py">GUI输出不同类型离散信号（Python)</ a></p >
+     <p><b>欢迎下次光临</b></p >
+   </td>
+ </tr>
+</table>
