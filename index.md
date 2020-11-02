@@ -6,7 +6,7 @@
      <p><b>学校：浙大宁波理工学院</b></p >
      <p><b>班级：电子信息工程191</b></p >
      <p><b>信号与系统</b></p >
-     <p>< a href="https://github.com/hhhccy0409/XinHaoYuXiTong.github/tree/main">GUI输出不同类型离散信号（Python)</ a></p >
+     <p><a href="https://github.com/hhhccy0409/XinHaoYuXiTong.github/tree/main">信号与系统实践环节</a></p>
      <p><b>欢迎下次光临</b></p >
    </td>
  </tr>
